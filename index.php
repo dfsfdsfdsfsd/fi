@@ -1,10 +1,10 @@
 <?php
-$GLOBALS['_ta_campaign_key'] = 'b4139e33d506890472044baad2d293a7';
-$GLOBALS['_ta_debug_mode'] = false; //To enable debug mode, set to true or load this script with a '?debug_key=b4139e33d506890472044baad2d293a7' parameter
+$GLOBALS['_ta_campaign_key'] = '80ced6518dd2db6c4f16601a0fc5484c';
+$GLOBALS['_ta_debug_mode'] = false; //To enable debug mode, set to true or load this script with a '?debug_key=80ced6518dd2db6c4f16601a0fc5484c' parameter
 
 require 'bootloader.php';
 
-$campaign_id = 'dk281g';
+$campaign_id = 'a3j0r1';
 
 $ta = new TALoader($campaign_id);
 
